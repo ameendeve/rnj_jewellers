@@ -15,7 +15,6 @@ import 'package:rnj_jewellers/pages/smith_page.dart';
 import 'package:rnj_jewellers/pages/home_page.dart';
 import 'package:rnj_jewellers/pages/splash_page.dart';
 import 'package:rnj_jewellers/pages/user_list_page.dart';
-//import 'package:search_page/search_page.dart';
 //import 'package:shared_preferences/shared_preferences.dart';
 
 void main() async {
