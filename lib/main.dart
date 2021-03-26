@@ -11,7 +11,6 @@ import 'package:rnj_jewellers/pages/search.dart';
 import 'package:rnj_jewellers/pages/dashboard_page.dart';
 import 'package:rnj_jewellers/pages/register_page.dart';
 import 'package:firebase_core/firebase_core.dart';
-//import 'package:rnj_jewellers/pages/search_page.dart';
 import 'package:rnj_jewellers/pages/smith_page.dart';
 import 'package:rnj_jewellers/pages/home_page.dart';
 import 'package:rnj_jewellers/pages/splash_page.dart';
