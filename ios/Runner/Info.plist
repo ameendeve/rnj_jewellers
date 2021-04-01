@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>RNJ Jewellers</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Allow access to choose an Image</string>
 	<key>NSCameraUsageDescription</key>
